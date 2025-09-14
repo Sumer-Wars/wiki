@@ -10,8 +10,6 @@ export default defineConfig({
   description: "Official Wiki of the MMORTS Sumer Wars - Master the art of war in ancient Mesopotamia",
   appearance: 'force-dark',
   themeConfig: {
-    logo: '/assets/sumer-wars-logo.png',
-    
     search: {
       provider: 'local'
     },
