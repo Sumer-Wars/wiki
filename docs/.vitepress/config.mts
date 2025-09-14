@@ -7,7 +7,7 @@ const base = isGitHubActions ? '/wiki/' : '/'
 export default defineConfig({
   base,
   title: "Sumer Wars Wiki",
-  description: "Wiki officiel du MMORTS Sumer Wars - Maîtrisez l'art de la guerre dans l'antique Mésopotamie",
+  description: "Official Wiki of the MMORTS Sumer Wars - Master the art of war in ancient Mesopotamia",
   appearance: 'force-dark',
   themeConfig: {
     logo: '/assets/sumer-wars-logo.png',
@@ -66,12 +66,12 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/sumer-wars' }
+      { icon: 'github', link: 'https://github.com/Sumer-Wars/wiki' }
     ],
     
     footer: {
-      message: 'Wiki communautaire de Sumer Wars',
-      copyright: 'Copyright © 2025 Sumer Wars Community'
+      message: 'Wiki of Sumer Wars',
+      copyright: 'Copyright © 2025 Sumer Wars'
     }
   }
 })
