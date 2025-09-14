@@ -6,7 +6,7 @@ hero:
   text: "Official Wiki"
   tagline: "Master the art of war in ancient Mesopotamia"
   image:
-    src: /assets/sumer-wars-logo.png
+    src: /sumer-wars-logo.png
     alt: Sumer Wars
   actions:
     - theme: brand
